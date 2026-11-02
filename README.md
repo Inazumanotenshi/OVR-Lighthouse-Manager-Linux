@@ -25,7 +25,7 @@ BLE protocol (UUIDs and commands come from the original project).
 ## Install
 
 ```sh
-git clone <this repo>
+git clone https://github.com/Inazumanotenshi/OVR-Lighthouse-Manager-Linux
 cd OVR-Lighthouse-Manager-Linux
 ./install.sh
 ```
